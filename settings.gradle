@@ -1,0 +1,6 @@
+include ':app', ':lanyastudy2'
+include ':myBuleTooth'
+include ':bluetooth_Demo'
+include ':bluethTest3'
+include ':bluetooth4'
+include ':lanyachuanshu2'

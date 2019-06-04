@@ -1,0 +1,7 @@
+
+
+ lanyastudy2  蓝牙学习   获取已经配对的设备
+
+ bluethTest3  蓝牙学习  项目中无法发送数据给其他设备，而且不稳定
+
+ lanyastudy2  蓝牙学习  发送文件 通过 BluetoothSocket简历链接，通过 DataOutputStream来传输文件

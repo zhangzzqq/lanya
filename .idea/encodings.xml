@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetooth/ClientActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetooth/ClientActivity1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetooth/ClientActivity2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetooth/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetooth/ServerActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetooth/ServerActivity1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothClientConnThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothClientService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothCommunSocket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothCommunThreads.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothServerConnThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothServerService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/BluetoothTools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/ClientListListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/TransmitBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/bluetoothUtil/wanquantestBluetoothServerConnThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/file/AdapterManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/file/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/file/MyFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth4/src/main/java/com/ds/file/SelectFileActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bluetooth_Demo/src/main/java/com/bluetooth/activity/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myBuleTooth/src/main/java/com/example/mybuletooth/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myBuleTooth/src/main/java/com/ywq/broadcast/BluetoothReceiver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myBuleTooth/src/main/java/com/ywq/tools/ClsUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

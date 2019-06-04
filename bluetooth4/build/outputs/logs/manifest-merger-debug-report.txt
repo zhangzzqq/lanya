@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:3:7-33
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:5-43
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:5-43
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:5-43
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:5-43
+INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:5-43
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+		INJECTED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml
+application
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:8:5-33:19
+	android:label
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:8:48-80
+	android:icon
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:8:18-47
+activity#com.ds.bluetooth.MainActivity
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:10:19-51
+	android:theme
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:11:20-62
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:14:27-74
+activity#com.ds.bluetooth.ServerActivity
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:18:9-19:67
+	android:theme
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:19:13-55
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:18:19-49
+activity#com.ds.bluetooth.ServerActivity1
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:20:19-50
+activity#com.ds.bluetooth.ClientActivity
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:21:3-22:61
+	android:theme
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:22:7-49
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:21:13-43
+activity#com.ds.bluetooth.ClientActivity1
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:23:3-24:61
+	android:theme
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:24:7-49
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:23:13-44
+activity#com.ds.bluetooth.ClientActivity2
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:25:3-26:61
+	android:theme
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:26:7-49
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:25:13-44
+activity#com.ds.file.SelectFileActivity
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:27:3-29:68
+	android:theme
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:28:13-58
+service#com.ds.bluetoothUtil.BluetoothServerService
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:31:3-81
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:31:12-70
+service#com.ds.bluetoothUtil.BluetoothClientService
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:32:3-81
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:32:12-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:38:2-80
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:38:19-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:40:2-77
+	android:name
+		ADDED from D:\workDocument\AndroidProject\LanyaTest\bluetooth4\src\main\AndroidManifest.xml:40:19-75

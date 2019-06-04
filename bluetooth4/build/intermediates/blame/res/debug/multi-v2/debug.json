@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workDocument\\AndroidProject\\LanyaTest\\bluetooth4\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\workDocument\\AndroidProject\\LanyaTest\\bluetooth4\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,10,9,8,2,7,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "116,377,339,301,55,258,168,213",
+                        "endColumns": "46,35,37,37,60,42,44,44",
+                        "endOffsets": "158,408,372,334,111,296,208,253"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,138,176,214,275,318,363",
+                        "endColumns": "46,35,37,37,60,42,44,44",
+                        "endOffsets": "97,133,171,209,270,313,358,403"
+                    }
+                }
+            ]
+        }
+    ]
+}
